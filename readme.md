@@ -3,4 +3,5 @@
 - django 3.2
 
 
+ sdfsdfsdfsdfsdfsdfsf
 pip install -r requirement.txt
